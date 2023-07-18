@@ -3,15 +3,16 @@
 This this the Flutter part from a whole ML-based system for network threats detection and response.
 This mobile app allows the admin to monitor their network through visualisation of some stastics (Attacks per protocols...etc), and see the active/deactive devices in the network in real time using web sockets .
 
-## Getting Started
+## Showcase
 
-This project is a starting point for a Flutter application.
+| Devices Status                           | Incident Table                           |
+| ---------------------------------------- | ---------------------------------------- |
+| ![Devices Status Screen](showcase/3.jpg) | ![Incident Table Screen](showcase/5.jpg) |
 
-A few resources to get you started if this is your first Flutter project:
+| Attacks per protocol                           | Attacks per month                           |
+| ---------------------------------------------- | ------------------------------------------- |
+| ![Attacks per protocol Screen](showcase/1.jpg) | ![Attacks per month Screen](showcase/2.jpg) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Devices Status                           |
+| ---------------------------------------- |
+| ![Devices Status Screen](showcase/6.jpg) |
