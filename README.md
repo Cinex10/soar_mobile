@@ -13,6 +13,6 @@ This mobile app allows the admin to monitor their network through visualisation 
 | ---------------------------------------------- | ------------------------------------------- |
 | ![Attacks per protocol Screen](showcase/1.jpg) | ![Attacks per month Screen](showcase/2.jpg) |
 
-| Devices Status                           |
+| Warnings Table                           |
 | ---------------------------------------- |
-| ![Devices Status Screen](showcase/6.jpg) |
+| ![Warnings Table Screen](showcase/6.jpg) |
