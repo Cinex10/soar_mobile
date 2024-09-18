@@ -1,6 +1,6 @@
 # SOAR Mobile
 
-This this the Flutter part from a whole ML-based system for network threats detection and response.
+This Flutter app is a part from a whole ML-based system for network threats detection and response.
 This mobile app allows the admin to monitor their network through visualisation of some stastics (Attacks per protocols...etc), and see the active/deactive devices in the network in real time using web sockets .
 
 ## Showcase
